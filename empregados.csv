@@ -1,0 +1,16 @@
+id_usuario,habilidades,disponibilidade,tempo_medio_execucao
+36,jardinagem,nao,5
+37,manutencao,nao,1
+38,jardinagem,sim,2
+39,jardinagem,sim,4
+40,manutencao,nao,5
+41,cozinha,sim,3
+42,limpeza,sim,3
+43,limpeza,nao,5
+44,jardinagem,sim,2
+45,limpeza,nao,2
+46,cozinha,nao,2
+47,manutencao,sim,1
+48,jardinagem,sim,1
+49,jardinagem,nao,1
+50,limpeza,sim,3
